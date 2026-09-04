@@ -1,0 +1,13 @@
+habitat_id,habitat_name,habitat_type,zone,area_hectares,native_plant_pct,canopy_cover_pct,water_availability_score,fragmentation_score,disturbance_score,seasonal_stability_score
+H001,Riverside Park,Parks & Gardens,Central,11.2,34.4,25.1,26.3,36.7,52.6,62.2
+H002,Karve Urban Forest,Urban Forest Patches,West,12.6,92.3,66.4,65.6,24.9,72.3,56.8
+H003,Kothrud Roadside Green,Roadside Trees,West,10.1,89.1,49.7,80.7,46.4,54.0,60.0
+H004,Pashan Lake Edge,Lakes & Water Bodies,North,7.9,51.0,21.7,90.6,24.8,47.1,84.6
+H005,University Garden,Parks & Gardens,East,22.3,58.5,45.7,99.6,52.2,66.1,90.1
+H006,Model Colony Green,Residential Areas,Central,22.4,42.0,52.2,32.6,50.7,76.7,70.6
+H007,Aundh Biodiversity Patch,Urban Forest Patches,Northwest,13.0,32.3,82.0,32.7,7.9,23.5,48.3
+H008,Hadapsar Wetland Pocket,Lakes & Water Bodies,East,13.6,63.5,33.4,28.8,12.8,33.8,48.0
+H009,Shivajinagar Civic Garden,Parks & Gardens,Central,20.0,43.5,32.7,54.6,34.2,5.1,50.6
+H010,Baner Hill Slope,Urban Forest Patches,West,24.4,30.1,48.1,61.7,28.3,37.3,84.0
+H011,Camp Tree Corridor,Roadside Trees,Central,23.8,46.9,34.2,43.2,38.6,56.2,56.4
+H012,Wakad Community Garden,Residential Areas,Northwest,10.3,90.5,13.6,59.6,54.8,16.3,47.4

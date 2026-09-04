@@ -1,0 +1,10 @@
+<svg width="1200" height="240" viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dff8e9"/><stop offset="1" stop-color="#eaf3ff"/></linearGradient></defs>
+<rect width="1200" height="240" rx="24" fill="url(#a)"/>
+<g font-family="Inter,Arial,sans-serif" text-anchor="middle">
+<g transform="translate(120 120)"><circle r="58" fill="#fff"/><path d="M-24 14C-6-28 34-31 46-3c-27 2-45 17-46 40Z" fill="#2ca866"/><path d="M-4-19C6 6 14 21 31 34" stroke="#2ca866" stroke-width="5" fill="none"/><text y="88" font-size="16" font-weight="800" fill="#27485f">Birds</text></g>
+<g transform="translate(330 120)"><circle r="58" fill="#fff"/><circle cx="-18" cy="5" r="20" fill="#f19a49"/><circle cx="14" cy="-7" r="26" fill="#f6b35d"/><path d="M-36-13h72" stroke="#8d5a1c" stroke-width="6"/><text y="88" font-size="16" font-weight="800" fill="#27485f">Insects</text></g>
+<g transform="translate(540 120)"><circle r="58" fill="#fff"/><path d="M0-38C35-20 38 18 0 42C-38 18-35-20 0-38Z" fill="#7bc96f"/><path d="M0-30V34M-25-5H25" stroke="#2f7c4a" stroke-width="4"/><text y="88" font-size="16" font-weight="800" fill="#27485f">Plants</text></g>
+<g transform="translate(750 120)"><circle r="58" fill="#fff"/><circle cx="0" cy="0" r="30" fill="#a7744d"/><circle cx="-24" cy="-10" r="16" fill="#b98a68"/><circle cx="24" cy="-10" r="16" fill="#b98a68"/><text y="88" font-size="16" font-weight="800" fill="#27485f">Mammals</text></g>
+<g transform="translate(960 120)"><circle r="58" fill="#fff"/><path d="M-25 35V-5c0-32 50-32 50 0v40" stroke="#8b5cf6" stroke-width="12" fill="none"/><circle cx="0" cy="-4" r="12" fill="#ef5da8"/><text y="88" font-size="16" font-weight="800" fill="#27485f">Reptiles</text></g>
+</g></svg>

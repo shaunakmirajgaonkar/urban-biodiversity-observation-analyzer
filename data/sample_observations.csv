@@ -1,0 +1,97 @@
+observation_id,observed_at,species_common_name,species_category,habitat_type,observer_id,latitude,longitude,image_count,abundance_count,season,habitat_quality_score,human_disturbance_score,species_confidence_pct
+OBS-0001,2025-10-10,House Sparrow,Birds,Urban Forest Patches,OBS001,18.433201,73.921275,0,8,Autumn,40.7,83.0,88.5
+OBS-0002,2025-10-14,Common Myna,Birds,Parks & Gardens,OBS002,18.479244,73.833083,2,5,Autumn,91.5,56.5,91.2
+OBS-0003,2025-06-11,Purple Sunbird,Birds,Urban Forest Patches,OBS003,18.441332,73.900281,4,1,Summer,85.5,55.5,88.4
+OBS-0004,2025-05-10,Plain Tiger,Insects,Parks & Gardens,OBS004,18.535014,73.871501,3,9,Summer,46.9,42.3,56.9
+OBS-0005,2025-02-26,Honey Bee,Insects,Urban Forest Patches,OBS005,18.499387,73.997791,1,11,Winter,54.9,34.6,75.7
+OBS-0006,2025-03-11,Indian Palm Squirrel,Mammals,Urban Forest Patches,OBS006,18.474872,73.833791,1,3,Spring,75.9,40.0,91.6
+OBS-0007,2025-09-13,Garden Lizard,Reptiles,Lakes & Water Bodies,OBS007,18.504442,73.843397,2,9,Monsoon,58.6,28.1,85.0
+OBS-0008,2025-02-21,Neem,Plants,Lakes & Water Bodies,OBS008,18.510551,73.883717,3,9,Winter,75.6,61.4,89.4
+OBS-0009,2025-06-17,Hibiscus,Plants,Urban Forest Patches,OBS009,18.45125,73.864867,1,2,Summer,75.8,42.7,79.9
+OBS-0010,2025-10-07,Asian Koel,Birds,Parks & Gardens,OBS010,18.487324,73.912242,0,7,Autumn,53.5,7.5,74.2
+OBS-0011,2025-03-20,Dragonfly,Insects,Residential Areas,OBS011,18.471391,73.809837,0,3,Spring,38.6,27.5,67.9
+OBS-0012,2025-08-30,Pond Heron,Birds,Residential Areas,OBS012,18.460774,73.88872,4,8,Monsoon,59.8,70.1,62.3
+OBS-0013,2025-01-09,House Sparrow,Birds,Parks & Gardens,OBS013,18.462822,73.814229,3,6,Winter,44.8,45.1,61.7
+OBS-0014,2025-09-12,Common Myna,Birds,Residential Areas,OBS014,18.509942,73.874583,1,4,Monsoon,73.4,33.9,58.9
+OBS-0015,2025-02-13,Purple Sunbird,Birds,Parks & Gardens,OBS015,18.435124,73.901988,2,8,Winter,51.2,82.5,89.3
+OBS-0016,2025-09-19,Plain Tiger,Insects,Lakes & Water Bodies,OBS016,18.437987,73.868701,0,2,Monsoon,90.1,41.5,63.9
+OBS-0017,2025-04-22,Honey Bee,Insects,Parks & Gardens,OBS017,18.490698,73.847322,2,10,Spring,81.3,62.6,74.0
+OBS-0018,2025-08-17,Indian Palm Squirrel,Mammals,Lakes & Water Bodies,OBS018,18.55208,73.866835,3,1,Monsoon,60.4,8.3,76.7
+OBS-0019,2025-05-01,Garden Lizard,Reptiles,Roadside Trees,OBS019,18.496059,73.960482,0,7,Summer,45.4,79.0,80.6
+OBS-0020,2025-05-07,Neem,Plants,Residential Areas,OBS020,18.508582,73.867778,0,11,Summer,64.4,67.6,58.6
+OBS-0021,2025-06-27,Hibiscus,Plants,Lakes & Water Bodies,OBS021,18.611124,73.902793,0,7,Summer,63.9,26.4,69.6
+OBS-0022,2025-07-10,Asian Koel,Birds,Urban Forest Patches,OBS022,18.452456,73.872257,1,10,Monsoon,89.7,16.2,79.4
+OBS-0023,2025-02-09,Dragonfly,Insects,Lakes & Water Bodies,OBS023,18.458116,73.877042,3,8,Winter,81.9,13.6,95.3
+OBS-0024,2025-03-26,Pond Heron,Birds,Residential Areas,OBS024,18.43657,73.840113,2,5,Spring,85.6,69.7,69.0
+OBS-0025,2025-12-14,House Sparrow,Birds,Roadside Trees,OBS025,18.497323,73.871385,4,3,Winter,92.1,18.2,57.0
+OBS-0026,2025-06-08,Common Myna,Birds,Lakes & Water Bodies,OBS026,18.422493,73.889492,0,9,Summer,89.3,76.5,77.8
+OBS-0027,2025-04-26,Purple Sunbird,Birds,Residential Areas,OBS027,18.489872,73.857399,2,5,Spring,40.8,64.7,66.5
+OBS-0028,2025-12-08,Plain Tiger,Insects,Parks & Gardens,OBS028,18.418433,73.970801,0,10,Winter,44.4,19.3,81.4
+OBS-0029,2025-11-16,Honey Bee,Insects,Parks & Gardens,OBS001,18.543242,73.83079,4,9,Autumn,94.3,45.1,61.3
+OBS-0030,2025-01-06,Indian Palm Squirrel,Mammals,Residential Areas,OBS002,18.543337,73.884982,0,8,Winter,42.4,45.5,85.5
+OBS-0031,2025-08-01,Garden Lizard,Reptiles,Urban Forest Patches,OBS003,18.440483,73.861623,0,8,Monsoon,80.1,15.5,60.4
+OBS-0032,2025-12-05,Neem,Plants,Urban Forest Patches,OBS004,18.458212,73.861978,0,6,Winter,75.4,81.4,67.6
+OBS-0033,2025-12-04,Hibiscus,Plants,Residential Areas,OBS005,18.469926,73.893337,0,7,Winter,41.5,16.2,73.4
+OBS-0034,2025-12-19,Asian Koel,Birds,Parks & Gardens,OBS006,18.564458,73.833072,3,9,Winter,63.5,67.8,55.8
+OBS-0035,2025-02-09,Dragonfly,Insects,Lakes & Water Bodies,OBS007,18.447191,73.844022,2,3,Winter,67.4,53.5,93.2
+OBS-0036,2025-08-09,Pond Heron,Birds,Urban Forest Patches,OBS008,18.456175,73.831773,0,8,Monsoon,87.9,41.3,65.9
+OBS-0037,2025-03-28,House Sparrow,Birds,Lakes & Water Bodies,OBS009,18.430645,73.98103,4,2,Spring,39.1,52.6,61.4
+OBS-0038,2025-10-29,Common Myna,Birds,Roadside Trees,OBS010,18.435591,73.86651,4,11,Autumn,45.1,27.8,61.8
+OBS-0039,2025-02-12,Purple Sunbird,Birds,Residential Areas,OBS011,18.469282,73.865349,0,2,Winter,38.3,52.3,85.0
+OBS-0040,2025-05-24,Plain Tiger,Insects,Urban Forest Patches,OBS012,18.495829,73.882924,3,10,Summer,86.9,8.5,63.0
+OBS-0041,2025-03-28,Honey Bee,Insects,Roadside Trees,OBS013,18.574193,73.966535,4,5,Spring,38.0,34.9,78.0
+OBS-0042,2025-02-07,Indian Palm Squirrel,Mammals,Roadside Trees,OBS014,18.533601,73.894451,2,11,Winter,41.0,72.5,94.7
+OBS-0043,2025-12-24,Garden Lizard,Reptiles,Roadside Trees,OBS015,18.458781,73.894504,3,8,Winter,82.5,15.8,78.6
+OBS-0044,2025-07-07,Neem,Plants,Lakes & Water Bodies,OBS016,18.546217,73.738834,3,5,Monsoon,74.0,26.3,61.1
+OBS-0045,2025-06-24,Hibiscus,Plants,Residential Areas,OBS017,18.49476,73.975004,1,5,Summer,57.3,31.2,71.7
+OBS-0046,2025-09-08,Asian Koel,Birds,Roadside Trees,OBS018,18.464949,73.951502,3,11,Monsoon,64.3,31.3,78.6
+OBS-0047,2025-11-06,Dragonfly,Insects,Residential Areas,OBS019,18.499755,73.925539,2,6,Autumn,73.6,28.1,87.3
+OBS-0048,2025-03-15,Pond Heron,Birds,Parks & Gardens,OBS020,18.515206,73.869514,4,7,Spring,40.8,63.1,58.7
+OBS-0049,2025-12-08,House Sparrow,Birds,Urban Forest Patches,OBS021,18.476987,73.81554,0,9,Winter,71.2,67.6,90.0
+OBS-0050,2025-12-12,Common Myna,Birds,Residential Areas,OBS022,18.481475,73.813089,0,2,Winter,72.6,18.7,79.9
+OBS-0051,2025-07-28,Purple Sunbird,Birds,Parks & Gardens,OBS023,18.376892,73.89674,3,9,Monsoon,83.8,44.4,81.4
+OBS-0052,2025-12-06,Plain Tiger,Insects,Urban Forest Patches,OBS024,18.506591,73.793012,3,1,Winter,75.1,38.5,89.1
+OBS-0053,2025-09-02,Honey Bee,Insects,Roadside Trees,OBS025,18.528081,73.892808,4,9,Monsoon,51.5,34.1,68.8
+OBS-0054,2025-02-27,Indian Palm Squirrel,Mammals,Lakes & Water Bodies,OBS026,18.497253,73.93499,2,5,Winter,58.4,63.4,79.3
+OBS-0055,2025-12-08,Garden Lizard,Reptiles,Residential Areas,OBS027,18.489104,73.926441,0,5,Winter,95.2,62.4,96.9
+OBS-0056,2025-02-13,Neem,Plants,Residential Areas,OBS028,18.584744,73.868716,0,2,Winter,70.9,59.9,55.5
+OBS-0057,2025-06-15,Hibiscus,Plants,Urban Forest Patches,OBS001,18.407898,73.811159,4,6,Summer,62.0,29.2,95.4
+OBS-0058,2025-10-13,Asian Koel,Birds,Parks & Gardens,OBS002,18.416426,73.752944,0,10,Autumn,52.3,72.0,59.7
+OBS-0059,2025-12-31,Dragonfly,Insects,Lakes & Water Bodies,OBS003,18.450193,73.887603,3,1,Winter,89.7,7.3,65.6
+OBS-0060,2025-02-22,Pond Heron,Birds,Residential Areas,OBS004,18.488855,73.925129,0,11,Winter,75.0,7.9,55.2
+OBS-0061,2025-01-19,House Sparrow,Birds,Urban Forest Patches,OBS005,18.390312,73.808694,4,3,Winter,86.8,9.6,90.2
+OBS-0062,2025-12-05,Common Myna,Birds,Residential Areas,OBS006,18.488901,73.939907,4,10,Winter,37.4,21.1,60.5
+OBS-0063,2025-07-04,Purple Sunbird,Birds,Parks & Gardens,OBS007,18.540911,73.885067,0,10,Monsoon,44.5,63.8,63.5
+OBS-0064,2025-04-09,Plain Tiger,Insects,Parks & Gardens,OBS008,18.516161,73.974642,3,7,Spring,38.3,54.3,56.9
+OBS-0065,2025-11-19,Honey Bee,Insects,Roadside Trees,OBS009,18.397609,73.931056,1,2,Autumn,46.2,83.4,75.2
+OBS-0066,2025-10-14,Indian Palm Squirrel,Mammals,Urban Forest Patches,OBS010,18.471484,73.898076,2,2,Autumn,92.7,29.1,80.4
+OBS-0067,2025-09-13,Garden Lizard,Reptiles,Urban Forest Patches,OBS011,18.465083,73.941303,0,2,Monsoon,66.0,37.3,75.9
+OBS-0068,2025-02-13,Neem,Plants,Urban Forest Patches,OBS012,18.483122,73.88881,0,4,Winter,61.1,53.9,82.9
+OBS-0069,2025-05-31,Hibiscus,Plants,Residential Areas,OBS013,18.442498,73.792574,4,7,Summer,54.3,7.9,73.4
+OBS-0070,2025-06-23,Asian Koel,Birds,Residential Areas,OBS014,18.52977,73.827085,1,7,Summer,77.8,56.8,83.7
+OBS-0071,2025-04-26,Dragonfly,Insects,Lakes & Water Bodies,OBS015,18.464733,73.938512,0,5,Spring,73.2,33.9,77.6
+OBS-0072,2025-09-26,Pond Heron,Birds,Urban Forest Patches,OBS016,18.484118,73.911943,4,6,Monsoon,66.7,69.0,68.8
+OBS-0073,2025-11-02,House Sparrow,Birds,Urban Forest Patches,OBS017,18.509951,73.939691,4,1,Autumn,52.1,31.7,62.6
+OBS-0074,2025-04-25,Common Myna,Birds,Parks & Gardens,OBS018,18.397587,73.861542,2,10,Spring,87.2,34.8,61.8
+OBS-0075,2025-08-08,Purple Sunbird,Birds,Roadside Trees,OBS019,18.412387,73.716951,2,11,Monsoon,95.7,66.8,68.7
+OBS-0076,2025-09-08,Plain Tiger,Insects,Urban Forest Patches,OBS020,18.409757,73.863647,4,8,Monsoon,35.7,21.7,78.1
+OBS-0077,2025-03-01,Honey Bee,Insects,Residential Areas,OBS021,18.449023,73.92938,4,11,Spring,68.9,72.1,98.6
+OBS-0078,2025-02-21,Indian Palm Squirrel,Mammals,Lakes & Water Bodies,OBS022,18.543172,73.855661,1,1,Winter,81.1,39.7,75.7
+OBS-0079,2025-02-24,Garden Lizard,Reptiles,Residential Areas,OBS023,18.43765,73.855329,4,1,Winter,49.2,28.4,76.6
+OBS-0080,2025-08-03,Neem,Plants,Residential Areas,OBS024,18.372258,73.836739,1,3,Monsoon,86.5,56.0,83.6
+OBS-0081,2025-09-02,Hibiscus,Plants,Parks & Gardens,OBS025,18.472837,73.891186,3,5,Monsoon,67.9,32.1,92.2
+OBS-0082,2025-06-26,Asian Koel,Birds,Lakes & Water Bodies,OBS026,18.493339,73.991929,1,6,Summer,90.5,52.0,92.4
+OBS-0083,2025-05-05,Dragonfly,Insects,Parks & Gardens,OBS027,18.440004,73.876113,4,11,Summer,73.5,19.2,69.9
+OBS-0084,2025-03-11,Pond Heron,Birds,Lakes & Water Bodies,OBS028,18.472816,73.84409,3,5,Spring,53.8,52.9,55.3
+OBS-0085,2025-04-12,House Sparrow,Birds,Parks & Gardens,OBS001,18.439514,73.890441,3,11,Spring,72.8,43.2,88.5
+OBS-0086,2025-11-26,Common Myna,Birds,Lakes & Water Bodies,OBS002,18.371554,73.816401,3,9,Autumn,87.9,14.1,87.2
+OBS-0087,2025-06-10,Purple Sunbird,Birds,Urban Forest Patches,OBS003,18.442314,73.89295,2,11,Summer,95.1,28.1,87.3
+OBS-0088,2025-10-01,Plain Tiger,Insects,Residential Areas,OBS004,18.460924,73.789153,1,1,Autumn,82.4,44.2,98.4
+OBS-0089,2025-06-19,Honey Bee,Insects,Roadside Trees,OBS005,18.400127,73.908348,0,9,Summer,40.2,49.4,90.3
+OBS-0090,2025-12-04,Indian Palm Squirrel,Mammals,Lakes & Water Bodies,OBS006,18.514332,73.904645,0,5,Winter,38.0,13.7,84.7
+OBS-0091,2025-09-18,Garden Lizard,Reptiles,Urban Forest Patches,OBS007,18.500084,73.835637,3,9,Monsoon,83.9,8.9,65.3
+OBS-0092,2025-08-15,Neem,Plants,Urban Forest Patches,OBS008,18.460171,73.881766,4,6,Monsoon,76.3,7.4,72.7
+OBS-0093,2025-11-23,Hibiscus,Plants,Parks & Gardens,OBS009,18.541319,73.822768,2,10,Autumn,56.2,73.3,68.2
+OBS-0094,2025-08-04,Asian Koel,Birds,Parks & Gardens,OBS010,18.466028,73.864258,2,10,Monsoon,46.4,11.8,70.0
+OBS-0095,2025-09-19,Dragonfly,Insects,Residential Areas,OBS011,18.511464,73.992898,3,4,Monsoon,59.9,15.9,80.3
+OBS-0096,2025-12-31,Pond Heron,Birds,Roadside Trees,OBS012,18.422815,73.784813,0,5,Winter,90.8,44.8,60.9

@@ -1,0 +1,19 @@
+<svg width="1400" height="260" viewBox="0 0 1400 260" xmlns="http://www.w3.org/2000/svg">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#eaf9f0"/><stop offset=".55" stop-color="#eef7ff"/><stop offset="1" stop-color="#fff6ec"/></linearGradient>
+ <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#18a66a"/><stop offset="1" stop-color="#2f80ed"/></linearGradient>
+</defs>
+<rect width="1400" height="260" rx="28" fill="url(#bg)"/>
+<circle cx="1270" cy="45" r="80" fill="#d7f4e3" opacity=".65"/>
+<circle cx="1180" cy="210" r="110" fill="#e5f0ff" opacity=".75"/>
+<g transform="translate(70 42)">
+ <path d="M80 155C45 115 58 64 122 12c12 65 0 110-42 143Z" fill="url(#g)"/>
+ <path d="M92 135C115 90 147 54 188 35c3 55-34 99-96 118Z" fill="#1b9f60"/>
+ <path d="M98 151C103 99 109 57 128 18" stroke="#fff" stroke-width="5" opacity=".7" fill="none"/>
+</g>
+<text x="280" y="103" font-family="Inter,Arial,sans-serif" font-size="44" font-weight="800" fill="#153b61">Urban Biodiversity Observation Analyzer</text>
+<text x="282" y="147" font-family="Inter,Arial,sans-serif" font-size="20" fill="#5f7185">Observe local species • understand habitat signals • track seasonal change</text>
+<text x="282" y="188" font-family="Inter,Arial,sans-serif" font-size="15" font-weight="700" fill="#169b61">LOCAL-FIRST</text>
+<text x="418" y="188" font-family="Inter,Arial,sans-serif" font-size="15" font-weight="700" fill="#3474ca">CITIZEN SCIENCE</text>
+<text x="603" y="188" font-family="Inter,Arial,sans-serif" font-size="15" font-weight="700" fill="#c76b1c">EXPLAINABLE ANALYTICS</text>
+</svg>
